@@ -3,9 +3,9 @@
 </p>
 
 
-<h2 align="left">
+<h1 align="left">
   Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-</h2>
+</h1>
 
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=ivipinyadav14&color=blue)
