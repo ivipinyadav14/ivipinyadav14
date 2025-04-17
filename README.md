@@ -25,7 +25,7 @@
 - ![HTML5](https://img.shields.io/badge/-E34F26?&logo=html5&logoColor=white) **HTML**: Crafting well-structured web pages.
 - ![CSS3](https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white) **CSS**: Styling with standard CSS and Tailwind CSS for utility-first design.
 - ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**: Adding interactivity to web pages.
-# - ![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB) **React**: Building dynamic and responsive user interfaces. 
+<!-- - ![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB) **React**: Building dynamic and responsive user interfaces. -->
 - ![Tailwind CSS](https://img.shields.io/badge/-38B2AC?style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
 ---
@@ -45,7 +45,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; &nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) &nbsp; &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; &nbsp;
-# ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; &nbsp;
+<!-- ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; &nbsp; -->
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) &nbsp; &nbsp;
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) &nbsp; &nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) &nbsp; &nbsp;
