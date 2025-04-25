@@ -12,7 +12,7 @@
 -->
 
 <p>
-  I'm Vipin Yadav, a Computer Science student passionate about web development. Here you will find projects that showcase my skills in front-end development and programming.
+  I'm Vipin Yadav, a Computer Science graduate passionate about software engineering. Here, you'll find projects that showcase my skills software engineering and development.
 </p>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio_Website-24292e?style=flat-square&logo=githubpages&logoColor=white)](https://vipinyadav.vercel.app)
@@ -20,15 +20,17 @@
 
 ---
 
+<!--
 ## 🌐 Web Development Skills
 
 - ![HTML5](https://img.shields.io/badge/-E34F26?&logo=html5&logoColor=white) **HTML**: Crafting well-structured web pages.
 - ![CSS3](https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white) **CSS**: Styling with standard CSS and Tailwind CSS for utility-first design.
 - ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**: Adding interactivity to web pages.
-<!-- - ![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB) **React**: Building dynamic and responsive user interfaces. -->
+- ![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB) **React**: Building dynamic and responsive user interfaces.
 - ![Tailwind CSS](https://img.shields.io/badge/-38B2AC?style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
 ---
+-->
 
 ## 💻 Programming Profiles
 
@@ -42,16 +44,19 @@
 
 ## 🔧 Technologies & Tools
 
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) &nbsp; &nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) &nbsp; &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) &nbsp; &nbsp;
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white) &nbsp; &nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) &nbsp; &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; &nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) &nbsp; &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; &nbsp;
-<!-- ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; &nbsp; -->
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) &nbsp; &nbsp;
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) &nbsp; &nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) &nbsp; &nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) &nbsp; &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) &nbsp; &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; &nbsp; -->
 <br> <br>
 
 --- 
